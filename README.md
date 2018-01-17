@@ -8,3 +8,14 @@
 You can deploy your own version of WordPress running on MySQL on Heroku platform in seconds using the Heroku button below:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/technomile/Heroku-WordPress-PostgreSQL)
+
+## Overview
+
+```
+└── public                 # Heroku webroot
+    ├── content            # The wp-content directory. Renamed to content to avoid confusion with wp-content - and it looks prettier
+    │   ├── plugins        # Plugins
+    │   ├── mu-plugins     # Required plugins
+    │   └── themes         # Your custom themes
+    │
+    └── wp                 # Where the actual WordPress install will be installed by Composer
