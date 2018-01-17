@@ -7,7 +7,7 @@ I've created a sample website that demonstrates how to build customer blog with 
 
 You can deploy your own version of WordPress running on MySQL on Heroku platform in seconds using the Heroku button below:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/technomile/Heroku-WordPress-PostgreSQL)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/ajaykumar127/PardotMaster)
 
 ## Overview
 
