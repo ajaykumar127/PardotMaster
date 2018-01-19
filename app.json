@@ -1,8 +1,8 @@
 {
-	"name": "CMS Buildpacks by TechnoMile",
+	"name": "Wordpress Buildpack by Ajay",
 	"description": "Deploy your favorite CMS on Heroku using our WordPress buildpack.",
-	"repository": "https://github.com/technomile/Heroku-WordPress-PostgreSQL",
-	"logo": "http://technomile.github.io/img/cms_buildpack_github.png",
+	"repository": "https://github.com/ajaykumar127/PardotMaster",
+	"logo": "https://d1qb2nb5cznatu.cloudfront.net/users/1226641-medium_jpg?1464928629",
 	"keywords": ["wordpress", "heroku", "php", "postgresql", "apache", "apache2", "nginx"],
 	"addons": ["heroku-postgresql:hobby-dev","newrelic:wayne","sendgrid:starter"],
     "env": {
